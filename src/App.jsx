@@ -1,6 +1,6 @@
-import Navbar from "./Navbar"
-import Content from "./Contant"
-import Button from "./Button"
+import Navbar from "./components/Navbar/Navbar"
+import Content from "./components/Contant/Contant"
+import Button from "./components/Button/Button"
 
 function App() {
   return (

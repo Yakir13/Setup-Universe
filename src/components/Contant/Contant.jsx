@@ -1,3 +1,5 @@
+import './Contant.css'
+
 function Content(){
     return(
     <div className="content">
