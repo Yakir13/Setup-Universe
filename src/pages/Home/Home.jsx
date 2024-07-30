@@ -1,13 +1,13 @@
 import React from 'react'
 import './Home.css'
-import Content from '../../components/Content/Home-Content'
-import Button from '../../components/Button/Home-Button'
+import HomeContent from '../../components/Content/Home-Content/Home-Content'
+import HomeButton from '../../components/Button/Home-Button/Home-Button'
 
 function Home(){
     return(
     <>
-    <Content/>
-    <Button/>
+    <HomeContent/>
+    <HomeButton/>
     </>
     )
 }

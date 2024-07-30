@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home-Content.css'
 
-function Content(){
+function HomeContent(){
     return(
     <div className="content">
         <h1>Choose Your Setup</h1>
@@ -10,4 +10,4 @@ function Content(){
     )
 }
 
-export default Content
+export default HomeContent

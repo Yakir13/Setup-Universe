@@ -1,6 +1,6 @@
 import './Home-Button.css'
 
-function Button(){
+function HomeButton(){
     return(
     <div className="buttons">
         <button>SIGN UP</button>
@@ -9,4 +9,4 @@ function Button(){
     )
 }
 
-export default Button
+export default HomeButton
