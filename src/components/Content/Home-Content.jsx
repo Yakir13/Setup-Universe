@@ -1,4 +1,5 @@
-import './Contant.css'
+import React from 'react'
+import './Home-Content.css'
 
 function Content(){
     return(

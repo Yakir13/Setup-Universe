@@ -46,3 +46,9 @@
 .navbar a:hover::before {
     width: 100%;
 }
+
+.navbar .active {
+    padding-bottom: 3px;
+    border-bottom: 3px solid crimson;
+}
+

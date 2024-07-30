@@ -1,10 +1,15 @@
+import React from 'react'
 import './Home.css'
+import Content from '../../components/Content/Home-Content'
+import Button from '../../components/Button/Home-Button'
 
 function Home(){
     return(
-    <div className="Home">
-        <h1>Home</h1>
-    </div>
+    <>
+    <Content/>
+    <Button/>
+    </>
     )
 }
 export default Home
+
