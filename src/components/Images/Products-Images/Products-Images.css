@@ -1,0 +1,28 @@
+
+.container-images h2 {
+    color: #fff;
+    font-size: 55px;
+    margin: 30px 30px;
+    cursor: pointer;
+}
+
+.container-images .images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 60px;
+}
+
+.container-images .images img {
+    height: 400px;
+    width: 450px;
+    opacity: 0.8;
+    border-radius: 10px;
+}
+
+.container-images .images img:hover {
+    cursor: pointer;
+    opacity: 1;
+}
+
