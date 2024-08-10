@@ -1,4 +1,4 @@
-.content {
+.home {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -9,7 +9,7 @@
     color: #fff;
 }
 
-.content h1 {
+.home h1 {
     cursor: pointer;
     transition: .8s;
     font-size: 65px;
@@ -19,11 +19,11 @@
     text-transform: uppercase;
 }
 
-.content h1:hover {
+.home h1:hover {
     transform: scale(1.1);
 }
 
-.content p {
+.home p {
     font-size: 45px;
     width: 65%;
 }

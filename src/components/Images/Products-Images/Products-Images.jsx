@@ -5,8 +5,8 @@ function ProductsImages() {
     return(
     <>
     <div className="product-header">
-        <h2>Our <span>Products</span></h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum dolore reiciendis nemo ut reprehenderit nostrum quo saepe eveniet atque repudiandae!</p>
+        <h2>Our Products</h2>
+        <p>Discover expertly curated computer setups tailored to your needs. From high-performance gaming rigs to efficient workstations, find the perfect configuration to power your projects and passions.</p>
     </div>
     <div className='container'>
         <div className="gallery-container w-3 h-3">
