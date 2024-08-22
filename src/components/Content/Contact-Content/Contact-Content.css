@@ -1,0 +1,25 @@
+.submit-form .contact-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 15px;
+    background-color: #777;
+    color: #fff;
+}
+
+.submit-form .contact-header h2 {
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.submit-form .contact-header p {
+    width: 80%;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+
+

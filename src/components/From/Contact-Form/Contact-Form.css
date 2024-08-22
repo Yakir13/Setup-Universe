@@ -1,0 +1,52 @@
+form {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: gainsboro;
+    /* margin-right: 50%; */
+}
+
+form h3 {
+    margin-top: 30px;
+    font-size: 35px;
+    color: #333;
+}
+
+form .input-box {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    /* margin-right: 300px; */
+}
+
+form .input-box i {
+    font-size: 30px;
+}
+
+form .input-box input {
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+form .input-box textarea {
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+form .submit {
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    background-color: #fff;
+}
