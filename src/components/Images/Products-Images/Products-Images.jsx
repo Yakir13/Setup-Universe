@@ -3,11 +3,6 @@ import './Products-Images.css'
 
 function ProductsImages() {
     return(
-    <>
-    <div className="product-header">
-        <h2>Our Products</h2>
-        <p>Discover expertly curated computer setups tailored to your needs. From high-performance gaming rigs to efficient workstations, find the perfect configuration to power your projects and passions.</p>
-    </div>
     <div className='container'>
         <div className="gallery-container w-3 h-3">
             <div className="gallery-item">
@@ -202,8 +197,6 @@ function ProductsImages() {
             </div>
         </div>
     </div>
-    </>
     )
 }
-
 export default ProductsImages

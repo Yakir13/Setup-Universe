@@ -1,0 +1,23 @@
+.product {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #777;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    gap: 20px;
+}
+
+.product h2 {
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.product p {
+    width: 80%;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
