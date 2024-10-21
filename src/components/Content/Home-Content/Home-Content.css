@@ -9,8 +9,9 @@
     color: #fff;
 }
 
-.home h1 {
+.home a {
     cursor: pointer;
+    font-weight: 800;
     transition: .8s;
     font-size: 65px;
     transform: scale(1);
@@ -19,7 +20,7 @@
     text-transform: uppercase;
 }
 
-.home h1:hover {
+.home a:hover {
     transform: scale(1.1);
 }
 
