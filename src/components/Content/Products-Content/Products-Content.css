@@ -11,13 +11,16 @@
     gap: 20px;
 }
 
-.product h2 {
-    font-size: 40px;
+.product a {
+    color: #fff;
+    font-weight: 500;
+    font-size: 50px;
     margin-top: 20px;
 }
 
 .product p {
     width: 80%;
     font-size: 30px;
+    margin-top: 10px;
     margin-bottom: 20px;
 }

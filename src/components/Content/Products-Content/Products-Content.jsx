@@ -5,7 +5,7 @@ import './Products-Content.css'
 function ProductContent() {
     return(
     <div className="product">
-        <h2>Our Products</h2>
+        <a href="#">Our Products</a>
         <p>Discover expertly curated computer setups tailored to your needs. From high-performance gaming rigs to efficient workstations, find the perfect configuration to power your projects and passions.</p>
     </div>
     )

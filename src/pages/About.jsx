@@ -1,10 +1,11 @@
 import React from 'react'
+import AboutContent from '../components/Content/About-Content/About-Content'
 
 function About(){
     return(
-    <div className="About">
-        <h1>About</h1>
-    </div>
+    <>
+    <AboutContent/>
+    </>
     )
 }
 export default About

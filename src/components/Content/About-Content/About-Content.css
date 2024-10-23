@@ -1,4 +1,4 @@
-.contact-header {
+.about {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -11,19 +11,17 @@
     gap: 20px;
 }
 
-.contact-header a {
+.about a {
     color: #fff;
     font-weight: 500;
     font-size: 50px;
     margin-top: 20px;
 }
 
-.contact-header p {
+.about p {
     width: 80%;
     font-size: 30px;
     margin-top: 10px;
     margin-bottom: 20px;
 }
-
-
 
