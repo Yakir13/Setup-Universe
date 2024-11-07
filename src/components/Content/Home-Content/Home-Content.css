@@ -15,7 +15,7 @@
     transition: .8s;
     font-size: 65px;
     transform: scale(1);
-    color: crimson;
+    color: rgb(233, 131, 30);
     letter-spacing: 1.5px;
     text-transform: uppercase;
 }
